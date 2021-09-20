@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../git/sol-crm/sol-business-services/src/main/java/tr/com/superonline/crm/services/customer/billaccount/CustomerBillAccountService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../git/sol-crm/sol-business-services/src/main/java/tr/com/superonline/crm/services/customer/billaccount/impl/CustomerBillAccountServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../git/sol-crm/sol-business-services/src/main/java/tr/com/superonline/crm/services/ordercapture/impl/ChangeOrderCaptureServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../git/sol-crm/sol-business-services/src/main/java/tr/com/superonline/crm/services/ordercapture/impl/OrderCaptureServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../git/sol-crm/sol-business-services/src/main/java/tr/com/superonline/crm/services/ordercapture/impl/UagBundledOrderCaptureServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../git/sol-crm/sol-db-model/src/main/java/tr/com/superonline/crm/model/customer/contract/ContractDetail.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../git/sol-crm/sol-db-model/src/main/java/tr/com/superonline/crm/model/ordercapture/OrderLine.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../git/sol-crm/sol-db-model/src/main/java/tr/com/superonline/crm/model/ordercapture/enums/UagReason.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../git/sol-crm/sol-db-model/src/main/java/tr/com/superonline/crm/model/ordercapture/helper/OrderCapture.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../git/sol-crm/sol-db-model/src/main/java/tr/com/superonline/crm/model/util/SystemParameterConstants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../git/sol-crm/sol-web/src/main/java/tr/com/superonline/crm/web/controller/customer/CustomerBillAccountSelectionController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../git/sol-crm/sol-web/src/main/java/tr/com/superonline/crm/web/controller/customer/individual/IndividualCustomerManagementController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../git/sol-crm/sol-web/src/main/java/tr/com/superonline/crm/web/controller/ordercapture/OrderCaptureController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/.github/workflow/build.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/cinar/instructorApplication/entity/Instructor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/cinar/instructorApplication/entity/InstructorDetail.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/cinar/instructorApplication/model/InstructorDetailModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/cinar/instructorApplication/model/InstructorModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/cinar/instructorApplication/repository/InstructorDAO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/cinar/instructorApplication/repository/InstructorDetailDAO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/cinar/instructorApplication/restController/InstructorInfoRestController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/cinar/instructorApplication/service/InstructorInfoService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/cinar/instructorApplication/service/InstructorInfoServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
